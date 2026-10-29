@@ -1,4 +1,4 @@
-# Warehouse mobile client
+# Happy Parents Warehouse
 
 Cross-platform mobile client for the inventory back office, built with Expo SDK 58 and React Native 0.88. This repository currently holds the application foundation only: two placeholder screens that prove navigation, localization, styling, local database startup, environment configuration and the quality gates. Business features (sign-in, inventory, offline sync, QR scanning) are added on top of it.
 
