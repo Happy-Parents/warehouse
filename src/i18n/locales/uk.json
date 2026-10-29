@@ -1,0 +1,12 @@
+{
+  "home": {
+    "title": "Склад",
+    "openSettings": "Відкрити налаштування"
+  },
+  "settings": {
+    "title": "Налаштування",
+    "databaseStatus": "Локальна база даних",
+    "databaseReady": "Готова, версія схеми {{version}}",
+    "databaseError": "Не вдалося відкрити: {{message}}"
+  }
+}

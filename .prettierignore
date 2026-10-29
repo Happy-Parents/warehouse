@@ -1,0 +1,10 @@
+node_modules
+ios
+android
+.expo
+patches
+.specify
+.claude
+specs
+package-lock.json
+Gemfile.lock

@@ -1,0 +1,12 @@
+{
+  "home": {
+    "title": "Warehouse",
+    "openSettings": "Open settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "databaseStatus": "Local database",
+    "databaseReady": "Ready, schema version {{version}}",
+    "databaseError": "Failed to open: {{message}}"
+  }
+}
